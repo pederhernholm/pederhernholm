@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pederhernholm
 - 👀 I’m interested in data science and finance
-- 🌱 I’m currently learning about finance and business analytics at Norges Handelshøyskole
 - 📫 How to reach me pederhernholm@gmail.com
 
 <!---
